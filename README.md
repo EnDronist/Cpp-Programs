@@ -1,2 +1,2 @@
 # Cpp-Programs
-Programs in the programming language С++
+Some of the first programs in the programming language С++
